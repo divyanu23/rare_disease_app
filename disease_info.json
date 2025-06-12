@@ -1,0 +1,23 @@
+
+{
+  "Hemophilia": {
+    "description": "A rare disorder in which your blood doesn't clot normally.",
+    "symptoms": ["Excessive bleeding", "Joint pain", "Bruising easily"],
+    "treatment": "Clotting factor replacement therapy"
+  },
+  "Sickle Cell Anemia": {
+    "description": "A group of disorders that cause red blood cells to become misshapen.",
+    "symptoms": ["Bone pain", "Fatigue", "Dark urine"],
+    "treatment": "Pain management, blood transfusions, and hydroxyurea"
+  },
+  "Thalassemia": {
+    "description": "A blood disorder involving lower-than-normal amounts of an oxygen-carrying protein.",
+    "symptoms": ["Fatigue", "Growth delay", "Enlarged organs"],
+    "treatment": "Blood transfusions, iron chelation therapy"
+  },
+  "Fanconi Anemia": {
+    "description": "A rare inherited disease that affects the bone marrow.",
+    "symptoms": ["Frequent infections", "Poor growth", "Bleeding problems"],
+    "treatment": "Bone marrow transplant, androgen therapy"
+  }
+}
